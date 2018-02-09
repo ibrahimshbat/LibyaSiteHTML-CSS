@@ -47,3 +47,6 @@ body {
 .foot{
     text-align: center;
 }
+p i:first-child{
+  font-style: bold;
+}
