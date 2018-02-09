@@ -1,0 +1,49 @@
+body {
+  background-color: #a3d5d3;
+}
+#map{
+    float: left;
+     margin-right:10px;
+}
+#imgTripoli1{
+   float: left;
+     margin-right:10px;
+}
+#imgTripoli2{
+   float: right;
+   margin-right:20px;
+}
+#imgFezzan1{
+   float: left;
+     margin-right:10px;
+}
+#imgFezzan2{
+   float: right;
+   margin-right:20px;
+}
+#imgCyrenaica1{
+   float: left;
+     margin-right:10px;
+}
+#imgCyrenaica2{
+   float: right;
+   margin-right:20px;
+}
+#intro{
+  font-size:20px;
+}
+#header{
+   text-align: center;
+}
+#Tripoli{
+   font-size:16px;
+}
+#Fez{
+   font-size:16px;
+}
+#Cyr{
+   font-size:16px;
+}
+.foot{
+    text-align: center;
+}
